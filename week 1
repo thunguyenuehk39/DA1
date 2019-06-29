@@ -1,0 +1,8 @@
+DS will build the model or programming for treat data.
+DA will use the models which were built by DS to collect, clean, treat and deep insight data to apply in a specifically fields. From that, they can find out the results, and using results for your purpose.
+Explore, descriptive DA use data to find out what happened?
+Diagnostics DA will analyst that why did they happen?
+Predictive DA use the data to predict the result in the future.
+Prescriptive DA will find how can we make it happen and choose the best option to use.
+Meta-analysis is the statistical procedure for combining data from multiple studies. When the treatment effect (or effect size) is consistent from one study to the next, meta-analysis can be used to identify this common effect.
+A process of DA is included collect data for sources, after that we have to clean it. Because the raw data have a lot noise data. The next step we have to transform data follow we want. The following step is analyzed data after treatment. Finally, we will present it for user understand under language easy for understand.
