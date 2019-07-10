@@ -1,0 +1,9 @@
+# select all table
+SELECT * FROM gapminder
+
+# select 1 column
+SELECT country FROM gapminder
+
+# select 1 row
+SELECT * FROM gapminder
+WHERE country = "Afghanistan" AND year = 1800
