@@ -1,6 +1,6 @@
 #Creata database
 1. New database
-2. Import table from CSV
+2. Import table from CSV: import gapminder.csv and titanic.csv
 
 # select all table
 SELECT * FROM gapminder
