@@ -1,3 +1,7 @@
+#Creata database
+1. New database
+2. Import table from CSV
+
 # select all table
 SELECT * FROM gapminder
 
