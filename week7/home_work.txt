@@ -1,1 +1,6 @@
+1. Ethics in DA:
+- With me, it is a list standard about things are not done.
+- Because if we do that, it will affect to someone (from data sources to users) and having bad things to social.
+- I think we must not use fake data, private data (if they don't accept), fake results, unreasonable conclusion.
 
+2. I will study a master course in quantitative finance to have degree in this field, because my bachelor degree is another field, I can not apply anything. After that, I will continue study PhD in data science, so that, I can use it in research and teaching.
